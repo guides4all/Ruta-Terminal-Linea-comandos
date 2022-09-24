@@ -6,16 +6,8 @@ Estos son los temas que deberías aprender para saber manejarte en la terminal o
 
 TEMARIO: 
 
-- Que es la terminal
-- Navegación en la terminal
-- Examinar archivos
-- Manipular archivos y directorios
-- Comandos de información del sistema
-- Comandos de proceso
-- Comandos de administración
-- Comandos de actualización
-- Comandos de inicio y apagado
-- Comandos de red
+![Dark Modern Step By Step Career Development Tips Infographic](https://user-images.githubusercontent.com/71718050/192107181-cc56ef7f-c2bb-4188-9430-ee64f653d3d9.jpg)
+
 
 ## Aprende que es la terminal
 
