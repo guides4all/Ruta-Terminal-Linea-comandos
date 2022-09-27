@@ -6,7 +6,8 @@ Estos son los temas que deberías aprender para saber manejarte en la terminal o
 
 TEMARIO: 
 
-![Dark Modern Step By Step Career Development Tips Infographic](https://user-images.githubusercontent.com/71718050/192107181-cc56ef7f-c2bb-4188-9430-ee64f653d3d9.jpg)
+![Aprender sobre terminal y linea de comandos (1)](https://user-images.githubusercontent.com/71718050/192577800-96cfdd2b-871d-4b1f-bdf0-369b614ac184.jpg)
+
 
 
 ## Aprende que es la terminal
