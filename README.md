@@ -23,11 +23,11 @@ Aprenderás que es la linea de comandos, como funciona y porque la deberíamos u
 
 ## Cursos sobre la terminal y linea de comandos
 
-| Curso | Link | Descripción |
-| --- | --- | --- |
-| Curso de Introducción a la Terminal y Línea de Comandos | https://platzi.com/cursos/terminal/ | dominarás los comandos básicos de la terminal, realizar búsquedas que agilicen tu trabajo y administrar permisos en tu equipo. |
-| Curso: Domina la terminal en Linux (1) - EDTeam | https://www.youtube.com/watch?v=5NUODlQIEQw | el uso de la terminal de Linux (aunque sea básico) es obligatorio para cualquier persona que esté iniciando en la programación. |
-| Curso: Domina la terminal en Linux (2)  Manipulando archivos y directorios  - EDTeam | https://www.youtube.com/watch?v=9j3NfPRgDgE | te convertirás en administrador, manipularás, crearás, copiarás y aprenderás a buscar archivos y directorios dentro de la Terminal. |
+| Curso | Link | Autor | Descripción |
+| --- | --- | --- | --- |
+| Curso de Introducción a la Terminal y Línea de Comandos | https://platzi.com/cursos/terminal/ | Platzi | dominarás los comandos básicos de la terminal, realizar búsquedas que agilicen tu trabajo y administrar permisos en tu equipo. |
+| Curso: Domina la terminal en Linux (1)  | https://www.youtube.com/watch?v=5NUODlQIEQw | EDTeam | el uso de la terminal de Linux (aunque sea básico) es obligatorio para cualquier persona que esté iniciando en la programación. |
+| Curso: Domina la terminal en Linux (2)  Manipulando archivos y directorios  | https://www.youtube.com/watch?v=9j3NfPRgDgE | EDTeam | te convertirás en administrador, manipularás, crearás, copiarás y aprenderás a buscar archivos y directorios dentro de la Terminal. |
 
 ## Practica lo aprendido
 
