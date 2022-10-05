@@ -2,11 +2,12 @@
 
 🚀 **[VOLVER AL INDICE](https://www.notion.so/G4A-Guides-for-all-b035482d770c43028f9d7b9a89360dc5)**
 
-Apuntes: [Apuntes sobre comandos de la terminal](https://www.notion.so/Powershell-2a304647566b4a3d9ed206874a716f89)
+## Apuntes: 
+[Apuntes sobre comandos de la terminal](https://www.notion.so/Powershell-2a304647566b4a3d9ed206874a716f89)
 
 Estos son los temas que deberías aprender para saber manejarte en la terminal o linea de comandos.
 
-TEMARIO: 
+## Temario: 
 
 ![Aprender sobre terminal y linea de comandos (1)](https://user-images.githubusercontent.com/71718050/192577800-96cfdd2b-871d-4b1f-bdf0-369b614ac184.jpg)
 
